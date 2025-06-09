@@ -44,35 +44,35 @@ Expected path: assignments/module11-ci-cd/README.md
 Each assignment will reside in its own dedicated directory under an assignments/ folder. This structure ensures clarity and easy navigation.
 
 ```bash
-├── assignments/
-│   ├── module03-linux-basics/
-│   │   └── README.md
-│   │   └── solution_files/
-│   ├── module04-scripting/
-│   │   └── README.md
-│   │   └── solution_files/
-│   ├── module05-flask-mongodb/
-│   │   └── README.md
-│   │   └── solution_files/
-│   ├── module06-git/
-│   │   └── README.md
-│   │   └── solution_files/
-│   ├── module07-docker/
-│   │   └── README.md
-│   │   └── solution_files/
-│   ├── module08-aws/
-│   │   └── README.md
-│   │   └── solution_files/
-│   ├── module09-kubernetes/
-│   │   └── README.md
-│   │   └── solution_files/
-│   ├── module10-terraform/
-│   │   └── README.md
-│   │   └── solution_files/
-│   └── module11-ci-cd/
-│       └── README.md
-│       └── solution_files/
-└── README.md (this file)
+/ROOT_REPO(tutedude_asignments)
+    ├── module03-linux-basics/
+    │   └── README.md
+    │   └── solution.docx
+    ├── module04-scripting/
+    │   └── README.md
+    │   └── solution.docx
+    ├── module05-flask-mongodb/
+    │   └── README.md
+    │   └── solution.docx
+    ├── module06-git/
+    │   └── README.md
+    │   └── solution.docx
+    ├── module07-docker/
+    │   └── README.md
+    │   └── solution.docx
+    ├── module08-aws/
+    │   └── README.md
+    │   └── solution.docx
+    ├── module09-kubernetes/
+    │   └── README.md
+    │   └── solution.docx
+    ├── module10-terraform/
+    │   └── README.md
+    │   └── solution.docx
+    └── module11-ci-cd/
+    │   └── README.md
+    │   └── solution.docx
+    /README.md (this file)
 ```
 # 💡 How to Use This Repo
 Feel free to explore the directories for each assignment. As assignments are completed, their respective folders will be created/updated with the solutions and the detailed README.md files.
