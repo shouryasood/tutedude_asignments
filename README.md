@@ -43,7 +43,7 @@ Expected path: assignments/module11-ci-cd/README.md
 # 📂 Repository Structure
 Each assignment will reside in its own dedicated directory under an assignments/ folder. This structure ensures clarity and easy navigation.
 
-.
+```bash
 ├── assignments/
 │   ├── module03-linux-basics/
 │   │   └── README.md
@@ -73,7 +73,7 @@ Each assignment will reside in its own dedicated directory under an assignments/
 │       └── README.md
 │       └── solution_files/
 └── README.md (this file)
-
+```
 # 💡 How to Use This Repo
 Feel free to explore the directories for each assignment. As assignments are completed, their respective folders will be created/updated with the solutions and the detailed README.md files.
 
